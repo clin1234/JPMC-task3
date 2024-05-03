@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@jpmorganchase/perspective": "^0.2.23",
-    "@jpmorganchase/perspective-viewer": "^0.2.23"
+    "@finos/perspective": "^2.10.0",
+    "@finos/perspective-viewer": "^2.10.0"
     "@types/jest": "^29.5.12",
-    "@jpmorganchase/perspective-viewer-highcharts": "^0.2.23",
+    "@finos/perspective-viewer-highcharts": "^2.10.0",
     "@types/node": "^20.12.7",
     "@types/react": "^18.2.79",
     "@types/react-dom": "^18.2.25",
